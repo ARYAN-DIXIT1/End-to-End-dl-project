@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ARYAN-DIXIT1/Kidney-Disease-Classification-Deep-Learning-Project
+Author: ARYAN-DIXIT1
+Author-email: 2021000450.aryan@ug.sharda.ac.in
+Project-URL: Bug Tracker, https://github.com/ARYAN-DIXIT1/Kidney-Disease-Classification-Deep-Learning-Project/issues
+License-File: LICENSE
+
+# End-to-End-dl-project
+used to create the end to end pipeline for our project
